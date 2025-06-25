@@ -1,4 +1,4 @@
-# Retail Profitability Mini-Project
+# Retail Performance & Profitability Analysis
 
 ## 1. Project Overview
 This mini project simulates a **retail performance & profitability analysis** similar to the classic *Tableau Superstore* case.
@@ -18,7 +18,6 @@ Everything runs offline with the files already inside the repository – no extr
 | `sql/retail_analysis.sql` | Example SQL aggregating profit margin by Category/Sub-category |
 | `output/profit_margin.csv` | Script output – table of total sales / profit / margin |
 | `output/worst_margin.png` | Script output – visual of lowest profit-margin items |
-| `README.md` | *This file* |
 
 ## 3. Quick Start
 1. Clone / download the repo (or grab individual files).
@@ -60,6 +59,3 @@ Same KPI logic expressed declaratively – useful for BI tools or database pipel
 - Replace the synthetic CSV with real retail data to test at scale.
 - Expand KPIs: inventory turns, seasonality, customer segments.
 - Load results into Tableau / Power BI for interactive dashboards.
-
----
-© 2025 • Julius AI sample project
